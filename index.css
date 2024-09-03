@@ -42,3 +42,22 @@
     background-color: rgb(243, 240, 236);
     
 }
+body, html {
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.container {
+    max-width: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
