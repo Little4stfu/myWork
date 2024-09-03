@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins';
+}
+
+.image-landing {
+    background-image: url(https://wallpapercave.com/wp/wp4353456.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbarforlanding {
+    background-color: #542EBF;
+
+}
+.uni{
+    color: #542EBF;
+}
+
+
+.tools-all{
+    background-image: url(https://wallpapercave.com/wp/wp10564731.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.footer{
+    background-color:#542EBF;
+}
+.btn{
+    border-color: #542EBF;
+}
+
+#contact2:hover{
+    background-color: #542EBF !important;
+    color: white !important;
+}
+
+.contact-1{
+    background-color: rgb(243, 240, 236);
+    
+}
